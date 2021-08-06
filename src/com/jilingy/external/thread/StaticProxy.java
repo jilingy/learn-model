@@ -1,4 +1,4 @@
-package com.jilingy.demo01;
+package com.jilingy.external.thread;
 
 //静态代理模式总结：
 //真实对象和代理对象都需要实现同一个接口

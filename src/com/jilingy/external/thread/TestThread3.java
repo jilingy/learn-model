@@ -1,4 +1,4 @@
-package com.jilingy.demo01;
+package com.jilingy.external.thread;
 
 /**
  * @Description: 多个线程同时操作同一个对象，火车票的例子

@@ -1,4 +1,4 @@
-package com.jilingy.demo01;
+package com.jilingy.external.thread;
 
 /**
  * @Description: 带参数的landab

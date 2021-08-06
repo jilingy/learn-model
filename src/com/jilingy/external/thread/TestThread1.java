@@ -1,4 +1,4 @@
-package com.jilingy.demo01;
+package com.jilingy.external.thread;
 
 /**
  * @Description:继承Thread类,重写run方法，调用star线程,交替执行

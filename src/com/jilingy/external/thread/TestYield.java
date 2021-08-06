@@ -1,4 +1,4 @@
-package com.jilingy.demo01;
+package com.jilingy.external.thread;
 
 /**
  * @Description: 测试礼让线程，礼让不一定成功
