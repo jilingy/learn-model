@@ -1,4 +1,4 @@
-package com.jilingy.demo02;
+package com.jilingy.selfstudy.thread;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

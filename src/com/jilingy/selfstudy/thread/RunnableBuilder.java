@@ -1,4 +1,4 @@
-package com.jilingy.demo02;
+package com.jilingy.selfstudy.thread;
 
 /**
  * @description:
